@@ -1,4 +1,16 @@
 
+@media(max-)
+
+@media (max-width: 670px){
+	.blog{
+		padding:0 10px;
+	}
+	.books{
+		height : 80%;
+		width : 80%;
+	}
+}
+
 body {
 	margin : 0;
 	font-family: "Hiragino Kaku Gothic ProN", sans-serif;
@@ -26,7 +38,7 @@ header {
 }
 
 
-.miranda {
+.books {
 	height : 30%;
 	width : 30%;
 }
