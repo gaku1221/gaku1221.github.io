@@ -4,7 +4,7 @@
 
 body {
 	margin: 0;
-	font-family: "Hiragino Maru Gothic Pro", sans-serif;
+	font-family: "Hiragino Kaku Gothic ProN", sans-serif;
 }
 
 header {
@@ -17,4 +17,6 @@ header {
 .sky-arrow{
 
 	text-align: center;
+	color: white;
 }
+
