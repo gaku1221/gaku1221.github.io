@@ -3,7 +3,7 @@
 }
 
 body {
-	margin: 0;
+	margin : 0;
 	font-family: "Hiragino Kaku Gothic ProN", sans-serif;
 }
 
@@ -11,12 +11,26 @@ header {
 	height : 100px;
 	width : 100%;
 	top:0;
-	background-color: yellow
+	background-color: blue
 }
 
-.sky-arrow{
-
+.header-title{
+	padding : 20px;
+	font-size: 30px;
 	text-align: center;
-	color: white;
+	color:white ;
+}
+
+
+.july2{
+	margin: o 50px;
+	padding: 0 100px;
+
+}
+
+
+.miranda {
+	height : 50%;
+	width : 50%;
 }
 
