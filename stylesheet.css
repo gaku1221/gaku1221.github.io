@@ -5,7 +5,7 @@
 
 @media (max-width: 670px){
 	.blog{
-		padding:0 10px;
+		margin:0 10px;
 	}
 	.books{
 		height : 80%;
@@ -14,17 +14,12 @@
 }
 @media (min-width: 670px){
 	.blog{
-		margin: o 50px;
-		padding: 0 100px;
-
+		margin: 0 150px;
 	}
-
-
 	.books {
-		height : 30%;
-		width : 30%;
+		height : 60%;
+		width : 60%;
 	}
-
 }
 
 body {
@@ -44,6 +39,10 @@ header {
 	font-size: 30px;
 	text-align: center;
 	color:white ;
+}
+
+.text{
+	padding-bottom: 100px;
 }
 
 
