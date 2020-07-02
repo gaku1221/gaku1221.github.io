@@ -1,5 +1,7 @@
+*{
+	box-sizing: border-box;
+}
 
-@media(max-)
 
 @media (max-width: 670px){
 	.blog{
@@ -9,6 +11,20 @@
 		height : 80%;
 		width : 80%;
 	}
+}
+@media (min-width: 670px){
+	.blog{
+		margin: o 50px;
+		padding: 0 100px;
+
+	}
+
+
+	.books {
+		height : 30%;
+		width : 30%;
+	}
+
 }
 
 body {
@@ -30,16 +46,4 @@ header {
 	color:white ;
 }
 
-
-.blog{
-	margin: o 50px;
-	padding: 0 100px;
-
-}
-
-
-.books {
-	height : 30%;
-	width : 30%;
-}
 
