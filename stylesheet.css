@@ -1,6 +1,3 @@
-*{
-	box-sizing: border-box;
-}
 
 body {
 	margin : 0;
@@ -22,7 +19,7 @@ header {
 }
 
 
-.july2{
+.blog{
 	margin: o 50px;
 	padding: 0 100px;
 
